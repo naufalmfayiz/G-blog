@@ -1,0 +1,19 @@
+body {
+  background-image: url(https://img.freepik.com/free-vector/creative-geometric-design-space_53876-90562.jpg?t=st=1712049505~exp=1712053105~hmac=316b56e574393a0c96f26548931572347a8d406041c6203fb8dfaf9bd087d1ab&w=740);
+}
+
+.footer {
+  background-color: #f9f9f9;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 10px 0;
+  /* position: fixed; */
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 1000; /* Set a high z-index value to make sure it appears on top of other content */
+}
+
+/* .card a:hover {
+  text-decoration: underline;
+} */

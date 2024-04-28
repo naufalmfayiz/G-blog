@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "The Ultimate Guide to Blogging",
+    "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "imgUrl": "https://example.com/image2.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "id": 2,
+    "title": "How to Monetize Your Blog",
+    "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "imgUrl": "https://example.com/image1.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "id": 3,
+    "title": "Finding Your Niche in the Blogging World",
+    "content": "Cras eget metus eget metus ultricies tincidunt.",
+    "imgUrl": "https://example.com/image3.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "id": 4,
+    "title": "Top 5 Blogging Mistakes to Avoid",
+    "content": "Cras eget metus eget metus ultricies tincidunt.",
+    "imgUrl": "https://example.com/image4.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "id": 5,
+    "title": "The Ultimate Guide to Blogging",
+    "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "imgUrl": "https://example.com/image3.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "id": 6,
+    "title": "Top 5 Blogging Mistakes to Avoid",
+    "content": "Maecenas eget odio eget odio ultricies tincidunt.",
+    "imgUrl": "https://example.com/image3.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "id": 7,
+    "title": "The Power of SEO in Blogging",
+    "content": "Nullam eget sapien nec sapien ultricies tincidunt.",
+    "imgUrl": "https://example.com/image3.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "id": 8,
+    "title": "The Art of Writing a Captivating Blog Post",
+    "content": "Nullam eget sapien nec sapien ultricies tincidunt.",
+    "imgUrl": "https://example.com/image5.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "id": 9,
+    "title": "Exploring Different Blogging Platforms",
+    "content": "Quisque eget mauris ac felis ultricies tincidunt.",
+    "imgUrl": "https://example.com/image3.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "id": 10,
+    "title": "Finding Your Niche in the Blogging World",
+    "content": "consectetur adipiscing elit.",
+    "imgUrl": "https://example.com/image5.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "id": 11,
+    "title": "The Power of SEO in Blogging",
+    "content": "Nunc eget velit eget velit ultricies tincidunt.",
+    "imgUrl": "https://example.com/image3.jpg",
+    "categoryId": 3,
+    "authorId": 2
+  },
+  {
+    "id": 12,
+    "title": "How to Monetize Your Blog",
+    "content": "Maecenas eget odio eget odio ultricies tincidunt.",
+    "imgUrl": "https://example.com/image4.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "id": 13,
+    "title": "The Power of SEO in Blogging",
+    "content": "Nunc eget velit eget velit ultricies tincidunt.",
+    "imgUrl": "https://example.com/image5.jpg",
+    "categoryId": 3,
+    "authorId": 2
+  },
+  {
+    "id": 14,
+    "title": "The Power of SEO in Blogging",
+    "content": "Cras eget metus eget metus ultricies tincidunt.",
+    "imgUrl": "https://example.com/image5.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "id": 15,
+    "title": "The Power of SEO in Blogging",
+    "content": "Lorem ipsum dolor sit amet",
+    "imgUrl": "https://example.com/image5.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "id": 16,
+    "title": "The Ultimate Guide to Blogging",
+    "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+    "imgUrl": "https://example.com/image1.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "id": 17,
+    "title": "The Ultimate Guide to Blogging",
+    "content": "Quisque eget mauris ac felis ultricies tincidunt.",
+    "imgUrl": "https://example.com/image2.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "id": 18,
+    "title": "The Impact of Social Media on Blogging",
+    "content": "Nullam eget sapien nec sapien ultricies tincidunt.",
+    "imgUrl": "https://example.com/image5.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "id": 19,
+    "title": "The Ultimate Guide to Blogging",
+    "content": "Cras eget metus eget metus ultricies tincidunt.",
+    "imgUrl": "https://example.com/image3.jpg",
+    "categoryId": 3,
+    "authorId": 2
+  },
+  {
+    "id": 20,
+    "title": "Creating Engaging Content for Your Blog",
+    "content": "consectetur adipiscing elit.",
+    "imgUrl": "https://example.com/image1.jpg",
+    "categoryId": 3,
+    "authorId": 2
+  }
+]

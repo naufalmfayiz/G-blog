@@ -1,0 +1,16 @@
+[
+  {
+    "email": "go@gmail.com",
+    "password": "12345",
+    "role": "Admin",
+    "phoneNumber": "0812345678",
+    "address": "Jalan Bahagia 1 No.3"
+  },
+  {
+    "email": "bro@gmail.com",
+    "password": "54321",
+    "role": "Staff",
+    "phoneNumber": "0812345677",
+    "address": "Jalan Bahagia 1 No.5"
+  }
+]
